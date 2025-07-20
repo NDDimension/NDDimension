@@ -40,7 +40,7 @@
 
 ### 🌐 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourfriend)  
+- 💼 [LinkedIn](www.linkedin.com/in/dhanraj-sharma-nddimension)  
 - 🧪 [Kaggle](https://www.kaggle.com/nddimension)  
 
 ---
