@@ -132,13 +132,6 @@ I care about elegant systems, composable abstractions, and shipping working AI i
 </tr>
 </table>
 
-## 🌱 Currently Exploring
-
-* Advanced RAG architectures and context regimes
-* Efficient tuning: LoRA / QLoRA / adapters
-* Multi-agent coordination patterns
-
----
 
 ## 🔗 Connect
 
@@ -151,10 +144,6 @@ I care about elegant systems, composable abstractions, and shipping working AI i
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.kaggle.com/nddimension">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-</p>
 
 ---
 
