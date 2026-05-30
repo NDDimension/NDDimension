@@ -2,14 +2,15 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+Automation+Specialist;LLM+Integration+%26+RAG+Systems;n8n+%7C+LangChain+%7C+FastAPI+%7C+Docker;Building+AI+Products+That+Ship" />
 
-# Dhanraj Sharma
+# DHANRAJ SHARMA
 
 **AI Automation Specialist · LLM Integration · RAG Pipelines · Workflow Automation**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanraj-sharma-nddimension)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NDDimension)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanrajsharma1313@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hinatashoyo101824@gmail.com)
 [![Contra](https://img.shields.io/badge/Contra-000000?style=for-the-badge&logo=contra&logoColor=white)](https://contra.com/dhanraj_sharma_rgam8kpb)
+[![Upwork](https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=6FDA44)](https://www.upwork.com/freelancers/~010e4c7ac19e0fdda1?mp_source=share)
 
 </div>
 
@@ -103,6 +104,18 @@ Automated compliance audit platform for critical network infrastructure. Consoli
 
 ---
 
+### 🤖 ClientSense — AI Lead Qualification & Follow-up Engine
+> **Production-ready business automation workflow built with n8n and Gemini AI**
+
+AI-powered lead management system that automatically qualifies inbound leads, routes them into hot/warm/cold pipelines, sends personalized email responses, tracks lead engagement, creates follow-up reminders, and generates daily CRM follow-up digests.
+
+- **Stack:** n8n · Gemini AI · Gmail API · Google Sheets · Google Calendar · Tally Forms
+- **Features:** AI lead scoring · Automated email workflows · CRM tracking · Reply detection · Calendar automation · Daily lead digest
+- **Architecture:** Event-driven workflow automation using webhooks, AI classification, conditional routing, and scheduled follow-up processes
+- 🔗 [Live Demo](https://github.com/NDDimension/clientsense-ai-lead-engine.git))
+
+---
+
 ### ⛽ Fuel Route Optimizer — Full Stack AI Road Trip Planner
 > **Live deployed product — Vercel + Render**
 
@@ -151,17 +164,6 @@ LightGBM classifier on medical dataset for early pancreatic cancer detection. De
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Dhanraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NDDimension&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NDDimension&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 | Achievement | Details |
@@ -195,14 +197,12 @@ LightGBM classifier on medical dataset for early pancreatic cancer detection. De
 ✅ Collaborations on AI products
 ```
 
-📧 **dhanrajsharma1313@gmail.com**
+📧 **hinatashoyo101824@gmail.com**
 
 ---
 
 <div align="center">
 
 *Building AI systems that actually ship.*
-
-![Profile Views](https://komarev.com/ghpvc/?username=NDDimension&color=3b82f6&style=flat-square)
 
 </div>
