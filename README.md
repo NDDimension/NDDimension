@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+Automation+Specialist;LLM+Integration+%26+RAG+Systems;n8n+%7C+LangChain+%7C+FastAPI+%7C+Docker;Building+AI+Products+That+Ship" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=3B82F6&center=true&vCenter=true&width=900&lines=AI+Automation+Engineer;n8n+%2B+Supabase+Production+Workflows;n8n+%7C+LangChain+%7C+FastAPI+%7C+Docker;Building+AI+Products+That+Ship" />
 
 # DHANRAJ SHARMA
 
-**AI Automation Specialist · LLM Integration · RAG Pipelines · Workflow Automation**
+**AI Automation Engineer · n8n + Supabase · LLM Pipelines · Workflow Automation**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanraj-sharma-nddimension)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NDDimension)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hinatashoyo101824@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhanrajsharma1313@gmail.com)
 [![Contra](https://img.shields.io/badge/Contra-000000?style=for-the-badge&logo=contra&logoColor=white)](https://contra.com/dhanraj_sharma_rgam8kpb)
 [![Upwork](https://img.shields.io/badge/Upwork-000000?style=for-the-badge&logo=upwork&logoColor=6FDA44)](https://www.upwork.com/freelancers/~010e4c7ac19e0fdda1?mp_source=share)
 
@@ -18,18 +18,18 @@
 
 ## 👋 About Me
 
-I build **AI automation systems that ship** — RAG chatbots, LLM integrations, n8n workflows, and full-stack AI products that replace manual work with intelligent pipelines.
+I build **AI automations that keep running after handover**, with error alerts, logging and duplicate protection built in.
 
-I don't just train models. I take ideas → build working products → deploy them.
+Day to day I design and run **production n8n + Supabase systems**: AI video and content engines that publish to multiple platforms, Stripe-powered paid submission flows, and self-healing publishing with dedup, retries and watchdogs.
 
-**Most recently:** Completed an 18-week research internship at **ISRO's Space Applications Centre** where I built **MOCK DRILL** — a full-stack automated compliance audit platform that compressed a 4-day manual security audit into 4 hours (90% effort reduction). Received a formal Letter of Recommendation from the Head of Cyber Security & Network Division.
+**Before that:** Completed an 18-week research internship at **ISRO's Space Applications Centre** where I built **MOCK DRILL** — a full-stack automated compliance audit platform that compressed a 4-day manual security audit into 4 hours (90% effort reduction). Received a formal Letter of Recommendation from the Head of Cyber Security & Network Division.
 
 ```
-What I build for clients and teams:
-→ RAG chatbots connected to documents, databases, or websites
-→ LLM integrations (GPT-4, Gemini, Claude API) into existing products  
-→ AI workflow automation using n8n, LangChain, and FastAPI
-→ Custom AI tools, Streamlit dashboards, and AI pipelines
+What I build:
+→ n8n workflows connecting CRMs, forms, email, Slack and APIs
+→ LLM pipelines with Gemini, OpenAI and Claude (structured outputs, moderation, agents)
+→ Lead qualification, review monitoring and content automation
+→ RAG chatbots and FastAPI back ends
 → Full-stack AI applications (React + FastAPI + Docker)
 ```
 
@@ -45,7 +45,10 @@ What I build for clients and teams:
 
 ### AI & Automation
 - LangChain, LangGraph
-- n8n Workflow Automation
+- n8n (production workflows, sub-workflows, Code nodes)
+- Supabase / PostgreSQL
+- Webhooks, GoHighLevel, Make.com
+- Claude Code, MCP
 - RAG Pipelines
 - Prompt Engineering
 - Vector DBs (ChromaDB, FAISS)
@@ -112,7 +115,29 @@ AI-powered lead management system that automatically qualifies inbound leads, ro
 - **Stack:** n8n · Gemini AI · Gmail API · Google Sheets · Google Calendar · Tally Forms
 - **Features:** AI lead scoring · Automated email workflows · CRM tracking · Reply detection · Calendar automation · Daily lead digest
 - **Architecture:** Event-driven workflow automation using webhooks, AI classification, conditional routing, and scheduled follow-up processes
-- 🔗 [Live Demo](https://github.com/NDDimension/clientsense-ai-lead-engine.git))
+- 🔗 [Live Demo](https://github.com/NDDimension/clientsense-ai-lead-engine)
+
+---
+
+### 📡 ReviewRadar — AI Review Monitoring & Alerts
+
+> **n8n + Gemini reputation-monitoring system with live dashboard**
+
+Fetches Google reviews on a schedule, scores sentiment, category and urgency with Gemini, drafts owner replies, and fires Gmail, Slack and WhatsApp alerts for urgent reviews. Sends a weekly AI summary per business and feeds a Looker Studio dashboard.
+
+- **Stack:** n8n · Gemini AI · SerpAPI · Google Sheets · Gmail · Slack · Twilio WhatsApp · Looker Studio
+- 🔗 [Repository](https://github.com/NDDimension/reviewradar)
+
+---
+
+### 📄 ContractIQ — RAG Contract Risk Scanner
+
+> **Live AI app deployed on Render**
+
+Upload a contract (PDF, DOCX or text) and get extracted key terms, risky clauses flagged by severity, a plain-English summary and a 1–10 risk score.
+
+- **Stack:** Flask · LangChain RAG · Groq Llama 3.3 · Hugging Face embeddings · FAISS · Docker
+- 🔗 [Repository](https://github.com/NDDimension/contractiq-ai)
 
 ---
 
@@ -192,12 +217,12 @@ LightGBM classifier on medical dataset for early pancreatic cancer detection. De
 ```
 ✅ Freelance AI automation projects
 ✅ LLM integration contracts  
-✅ Remote internships and full-time roles at AI-first startups
+✅ Part-time & contract automation roles (15–25 hrs/week, async-friendly)
 ✅ Short contracts and one-off builds
 ✅ Collaborations on AI products
 ```
 
-📧 **hinatashoyo101824@gmail.com**
+📧 **dhanrajsharma1313@gmail.com**
 
 ---
 
